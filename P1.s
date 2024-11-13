@@ -1,5 +1,6 @@
 /*
-
+Titulo: Convertir temperatura de Celsius a Fahrenheit	 
+Autor: Bautista Lagunas Jose Daniel 
 
 */
 
@@ -55,3 +56,10 @@ _start:
     mov x8, #93                       // Número de syscall para salir
     mov x0, #0                        // Código de salida 0
     svc #0                            // Llamada al sistema
+
+/*
+**********************************************************************
+Link de asciinema:
+
+**********************************************************************
+*/
