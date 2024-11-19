@@ -1,7 +1,9 @@
 /*
-Titulo: Factorial de un número		
-Autor: Bautista Lagunas Jose Daniel 
-
+ ============================================================================
+ Título     : Factorial de un número	
+ Autor      : Bautista Lagunas Jose Daniel
+ Descripción: Programa en ARM64 Assembly Raspberry Pi OS
+ ============================================================================
 */
 
 /*
