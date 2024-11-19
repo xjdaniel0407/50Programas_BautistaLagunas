@@ -60,6 +60,10 @@ _start:
     svc #0                            // Llamada al sistema
 
 /*
+nano P1.s
+as -o P1.o P1.s
+gcc -nostartfiles -o P1 P1.o -lm -lc
+./P1
 **********************************************************************
 Link de asciinema:
 
