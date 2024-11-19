@@ -1,7 +1,9 @@
 /*
-Titulo: Suma de dos números
-Autor: Bautista Lagunas Jose Daniel 
-
+ ============================================================================
+ Título     : Suma de dos números
+ Autor      : Bautista Lagunas Jose Daniel
+ Descripción: Programa en ARM64 Assembly Raspberry Pi OS
+ ============================================================================
 */
 
 /*
