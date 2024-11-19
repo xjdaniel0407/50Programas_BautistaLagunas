@@ -1,7 +1,9 @@
 /*
-Titulo: División de dos números	
-Autor: Bautista Lagunas Jose Daniel 
-
+ ============================================================================
+ Título     : División de dos números		
+ Autor      : Bautista Lagunas Jose Daniel
+ Descripción: Programa en ARM64 Assembly Raspberry Pi OS
+ ============================================================================
 */
 
 /*
