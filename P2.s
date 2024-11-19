@@ -121,6 +121,9 @@ print_int_loop:
     ret
 
 /*
+nano P2.s
+as -o P2.o P2.s   
+ld -o P2 P2.o     
 **********************************************************************
 Link de asciinema:
 
