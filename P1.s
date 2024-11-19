@@ -1,7 +1,9 @@
 /*
-Titulo: Convertir temperatura de Celsius a Fahrenheit	 
-Autor: Bautista Lagunas Jose Daniel 
-
+ ============================================================================
+ Título     : Convertir temperatura de Celsius a Fahrenheit
+ Autor      : Bautista Lagunas Jose Daniel
+ Descripción: Programa en ARM64 Assembly Raspberry Pi OS
+ ============================================================================
 */
 
 /*
